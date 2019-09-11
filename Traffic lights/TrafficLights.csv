@@ -1,0 +1,17 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"CUI_PURCHASE_URL";"DESCRIPTION";"DIGI-KEY_PART_NUMBER";"DIGI-KEY_PURCHASE_URL";"MANUFACTURER";"MANUFACTURER_PART_NUMBER";"MF";"MP";"MPN";"OC_FARNELL";"OC_NEWARK";"PACKAGE";"POPULARITY";"SPICEPREFIX";"STANDARD";"VALUE";"VENDOR";
+"3";"1.33k";"R-US_R1206";"R1206";"R4, R5, R6";"RESISTOR, American symbol";"";"";"";"";"";"";"";"";"";"";"";"";"19";"R";"";"";"";
+"2";"10k";"R-US_0207/2V";"0207/2V";"R11, R12";"RESISTOR, American symbol";"";"";"";"";"";"";"";"";"";"";"";"";"0";"R";"";"";"";
+"3";"10k";"R-US_R1206";"R1206";"R1, R2, R13";"RESISTOR, American symbol";"";"";"";"";"";"";"";"";"";"";"";"";"19";"R";"";"";"";
+"2";"10uF";"C-USC1206";"C1206";"C2, C3";"CAPACITOR, American symbol";"";"";"";"";"";"";"";"";"";"";"";"";"";"C";"";"";"";
+"5";"1k";"R-US_R1206";"R1206";"R3, R7, R8, R9, R10";"RESISTOR, American symbol";"";"";"";"";"";"";"";"";"";"";"";"";"19";"R";"";"";"";
+"1";"47uF";"C-USC1206";"C1206";"C1";"CAPACITOR, American symbol";"";"";"";"";"";"";"";"";"";"";"";"";"";"C";"";"";"";
+"1";"CD4071BM96D14-M";"CD4073BM96D14-M";"D14-M";"U6";"";"";"";"";"";"";"CD4073BM96";"";"";"";"";"";"";"";"";"";"";"Texas Instruments";
+"1";"CD4073BM96D14-M";"CD4073BM96D14-M";"D14-M";"U5";"";"";"";"";"";"";"CD4073BM96";"";"";"";"";"";"";"";"";"";"";"Texas Instruments";
+"1";"CD4518BE";"CD4518BE";"N16";"U3";"";"";"";"";"";"";"CD4518BE";"";"";"";"";"";"";"";"";"";"";"Texas Instruments";
+"3";"CPC1970";"CPC1972";"6-DIP";"IC1, IC2, IC3";"Solid State Relay SPST-NO (1 Form A) 6-DIP";"";"";"";"";"";"CPC1972G";"";"";"";"";"";"";"";"";"";"CPC1970";"";
+"1";"HEF4049B";"HEF4049B";"SO16";"IC5";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";
+"1";"MC14081BDR2GSOIC-14_NB-M";"MC14081BDR2GSOIC-14_NB-M";"SOIC-14_NB-M";"U4";"";"";"";"";"";"";"MC14081BDR2G";"";"";"";"";"";"";"";"";"";"";"ON Semiconductor";
+"1";"NE555";"NE555";"DIL-08";"IC4";"General purpose bipolar Timer";"";"";"";"";"";"";"Arrow Electronics";"";"NE555N";"1467742";"89K1486";"";"";"";"";"";"";
+"1";"PJ-037A";"PJ-037A";"CUI_PJ-037A";"J2";"2.0 mm Center Pin, 2.5 A, Right Angle, Through Hole, Dc Power Jack Connector";"https://www.cui.com/product/interconnect/connectors/dc-power-connectors/jacks/pj-037a?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM";"2.0 x 6.5 mm, 2.5 A, Horizontal, Through Hole, Dc Power Jack Connector";"CP-037A-ND";"https://www.digikey.com/product-detail/en/cui-inc/PJ-037A/CP-037A-ND/1644545?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol";"";"";"CUI Inc.";"PJ-037A";"";"";"";"None";"";"";"";"";"";
+"2";"SQ1922AEEH";"SQ1922AEEH";"SOT-363";"U1, U2";"Mosfet Array 2 N-Channel (Dual) 20V 850mA (Tc) 1.5W (Tc) Surface Mount SC-70-6";"";"";"";"";"";"SQ1922AEEH-T1_GE3";"";"";"";"";"";"";"";"";"";"";"";
+"1";"TB002-500-04BE";"TB002-500-04BE";"CUI_TB002-500-04BE";"J1";"";"";"";"";"";"CUI";"";"";"";"";"";"";"";"";"";"Manufacturer Recommendations";"";"";
